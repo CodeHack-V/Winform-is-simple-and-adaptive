@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading;
-using static System.Windows.Forms.Control;
+using System.Windows.Forms.Control;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1
